@@ -849,6 +849,12 @@
                  "id":82,
                  "name":"Teaching-Challenges",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/document\/d\/1E83aEc8N9Bv9PJ-O98dr--e5453TLUFnzOkNuxfPmoY\/edit?usp=sharing"
+                        }],
                  "type":"tilelayer",
                  "visible":false,
                  "width":10,
@@ -915,6 +921,12 @@
                  "id":81,
                  "name":"Studenten-Challenges",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/document\/d\/1h4drChY6RILLwrQSQqu4yQtPM8c7JqTnSofl4ApFQUw\/edit?usp=sharing"
+                        }],
                  "type":"tilelayer",
                  "visible":false,
                  "width":10,
@@ -981,6 +993,12 @@
                  "id":80,
                  "name":"Teaching_Dif",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/document\/d\/1DroFxTGZczqBeAn9pVtc9JQltOmbOjo5RSLeSMyejxY\/edit?usp=sharing"
+                        }],
                  "type":"tilelayer",
                  "visible":false,
                  "width":10,
@@ -1051,7 +1069,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/docs.google.com\/document\/d\/1woD940VqybzjNi8Kqcshx1p_LfBol0EF8BCR2XjcAEY\/edit?usp=sharing"
                         }],
                  "type":"tilelayer",
                  "visible":false,
